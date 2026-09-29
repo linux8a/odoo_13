@@ -1,2 +1,2 @@
-oauthlib==2.1 
+oauthlib==4.0.0 
 requests-oauthlib[test]==1.0
